@@ -12,7 +12,7 @@
 ## 所需运行环境
 
 * 使用python3作为编程语言。使用mysql作为数据库存储.
-* 需要安装pyspark,pandas,flask，pymysql.
+* 需要安装pyspark,pandas,flask,pymysql.
 
 
 
@@ -31,9 +31,9 @@
 
 Example：
 * `UserID/账号`：
-    - 39027
+    - 265254
 * `UserName/密码`：
-    - tempe, arizona, usa
+    - salvisa, kentucky, usa
 
 ## 项目思路：
 
